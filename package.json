@@ -1,0 +1,28 @@
+{
+  "name": "hissy-fit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "hissy-fit",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mdx-js/react": "^1.6.22",
+    "gatsby": "^4.20.0",
+    "gatsby-plugin-netlify-cms": "^6.20.0",
+    "gatsby-plugin-theme-ui": "^0.14.7",
+    "netlify-cms-app": "^2.15.72",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "theme-ui": "^0.14.7"
+  }
+}
